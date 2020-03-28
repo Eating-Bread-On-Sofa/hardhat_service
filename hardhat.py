@@ -7,7 +7,7 @@ import base64
 from flask import Flask
 from flask import render_template
 from flask import request
-from nameko.standalone.rpc import ClusterRpcProxy
+#from nameko.standalone.rpc import ClusterRpcProxy
  
 #UPLOAD_FOLDER = '/mine/hardhat_service/uploads'
 #ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
